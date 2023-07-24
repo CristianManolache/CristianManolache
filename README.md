@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CristianManolache
-- 👀 I’m interested in learning coding and build a nice logic mindset.
+- 👀 I’m interested in learning coding and build a strong mindset.
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT
 - 💞️ I’m looking to collaborate on some project in order to sharp my skills.
 - 📫 Email: mlcristian@outlook.com

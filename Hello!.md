@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CristianManolache
-- 👀 I’m interested in learning coding and build a strong mindset.
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT
-- 💞️ I’m looking to collaborate on some project in order to sharp my skills.
+- 🌱 Student at @lewagon
+- 👀 I’m interested in learning coding and building a strong mindset.
 - 📫 Email: mlcristian@outlook.com
 <!---
 CristianManolache/CristianManolache is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

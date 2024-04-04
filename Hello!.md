@@ -13,7 +13,7 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
+
 
 #
 
@@ -30,7 +30,7 @@
 <img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303683/heroku-logo.svg" />
 <br />
 
----
+
 # 
 
 ### 📊 Stats

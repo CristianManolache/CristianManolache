@@ -1,5 +1,5 @@
 # 🏄‍♂️ Cristian Manolache
-**`Digital Craftsman (Developer/Gammer)`**
+**`Crafting Digital Experiences: Developer & Gamer`**
 
 👋 Hey there! I'm Cristian, a passionate web developer with a background in the culinary arts. After over a decade as a Professional Chef, I've transitioned into the world of technology, specializing in full-stack web development with a focus on Ruby on Rails.
 
@@ -12,6 +12,14 @@
       <a href="https://github.com/CristianManolache?tab=followers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CristianManolache?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+   
+#
+
+### ⚡ Connect with me
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlcristian/)
+    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/instaalazer)
+    [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lazer1ca)
+
 
 
 

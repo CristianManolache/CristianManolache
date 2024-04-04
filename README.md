@@ -4,9 +4,9 @@
 👋 Hey there! I'm Cristian, a passionate web developer with a background in the culinary arts. After over a decade as a Professional Chef, I've transitioned into the world of technology, specializing in full-stack web development with a focus on Ruby on Rails.
 
 <p align="left">
-      👨‍🍳 Former Professional Chef turned Web Developer
-      💻 Specializing in full-stack development
-      🔧 Proficient in Ruby on Rails
+      👨‍🍳 Former Professional Chef turned Web Developer <br>
+      💻 Specializing in full-stack development <br>
+      🔧 Proficient in Ruby on Rails <br>
       🌱 Always eager to learn and explore new technologies
 </p>
 

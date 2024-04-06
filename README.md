@@ -1,7 +1,7 @@
 # 🏄‍♂️ Cristian Manolache
 **`Crafting Digital Experiences: Developer & Gamer`**
 
-👋 Hey there! I'm Cristian, a passionate web developer with a background in the culinary arts. After over a decade as a Professional Chef, I've transitioned into the world of technology, specializing in full-stack web development with a focus on Ruby on Rails.
+👋 Hello! I'm Cristian. I used to be a professional chef, and now I've switched gears to become a web developer. Just like in cooking, where I loved making amazing meals, I now enjoy building great websites and apps. I've spent over ten years in kitchens, paying close attention to the little details that make food special. I'm bringing that same care and dedication to web development. After going through an in-depth full-stack web development program at Le Wagon, especially focusing on Ruby on Rails, I'm ready to apply what I've learned and start creating amazing web-applications.
 
 <p align="left">
       👨‍🍳 Former Professional Chef turned Web Developer <br>

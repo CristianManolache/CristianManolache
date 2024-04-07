@@ -53,11 +53,9 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" />
 <img align="left" alt="VScode" width="30px" style="padding-right:10px;" src="https://code.visualstudio.com/assets/images/code-stable.png" />
-<br>
 <img align="left" alt="Adobe Express" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Adobe_Express_logo.png" /> 
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" />
-<br>
-<br>
+<br/>
 
 
 

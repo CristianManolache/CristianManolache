@@ -43,10 +43,18 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Jquery" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-10-1175155.png" />
+<img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-10-1175155.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303683/heroku-logo.svg" />
+<img align="left" alt="Heroku" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353869/heroku-icon.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" />
+<img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png" />
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/G/github-logo-7880D80B8D-seeklogo.com.png" />
+<img align="left" alt="VScode" width="30px" style="padding-right:10px;" src="https://code.visualstudio.com/assets/images/code-stable.png" />
+<img align="left" alt="Adobe Express" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Adobe_Express_logo.png" />
+<img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" />
 <br />
 
 
